@@ -1,0 +1,23 @@
+body{
+	overflow: hidden;
+}
+.box{
+     background-color: brown;
+     border: 1px solid red;
+     height: 50px;
+     font-weight: bold;
+ }
+ .box2{
+     background-color: rgba(127, 226, 152, 0.568);
+     border: 1px solid rgb(0, 0, 0);
+     height: auto;
+     font-weight: bold;
+ }
+ .box3{
+     background-color: rgba(127, 226, 132, 0.568);
+     border: 1px solid rgb(0, 0, 0);
+     height: 50px;
+     font-weight: bold;
+     height: auto;
+ }
+ 
